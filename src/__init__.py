@@ -1,0 +1,1 @@
+"""Mergington High School activity application."""
